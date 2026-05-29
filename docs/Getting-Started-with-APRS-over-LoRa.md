@@ -8,7 +8,7 @@ If your area is not well covered by existing iGates you might want also set up a
 
 If you haven't done anything with APRS and want to get an idea of what is about you can simply use yor web browser to visit on of the common APRS web sites.
 
-Once you are set up you may want to dig further into APRS. You can find some useful references at [[APRS Resources]]
+Once you are set up you may want to dig further into APRS. You can find some useful references at [APRS Resources](APRS Resources)
 
 ## Visit aprs.fi
 
