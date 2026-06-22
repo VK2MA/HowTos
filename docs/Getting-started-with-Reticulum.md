@@ -29,25 +29,37 @@ Click on **Restart Now**
 
 Go to the **Messages** section
 
-Click on **Compose**
+In the second column click on **ANNOUNCES**
 
-Enter the address of the **HADARC LXMF Group** which is `0f24f850aa7cf536a557fac3621bd06e`
+You should see a list of LXMF destinations you can try. Just click on one that looks interesting and has announced recently then type and send a message.
 
-Type `/join` in the **Send a Message** box and click **Send**
-
-You will get a notification you have joined the messaging group.
-
-You can now send messages to the group.
-
-## Browse a Micron Page on the Nomad Network
+## Browse a Page on the Nomad Network
 
 Go to the **Nomad Network** section
 
 Click on **Open a Nomadnet URL**
 
-Enter `429572a04001a8023bf4c2518e34f95b:/page/index.mu`
+Enter `429572a04001a8023bf4c2518e34f95b`
+
+Alternately look for recently seen nodes in the **Announces** list.
+
+# Join a Reticulum Relay Chat
+
+Go to the **Relay Chat** section
+
+Click on **Add a hub**
+
+Under **Hub Destination Hash** enter `e7fd7f9efd6608ca4ade879d18646eed` then click **Add Hub**
+
+![HADARC rrc](image-2.png)
+
+In the **Room Name** field enter `general` and click the **+** then click on **# general** and start chatting.
 
 Follow the links on the Home Page, similar to using a web browser
+
+Click on the gear icon and Select **Auto List Rooms**
+
+![Hub Settings](image-1.png)
 
 ## Add an RF interface
 This is where Reticulum starts to make sense for Amateurs, using RF to carry the data.

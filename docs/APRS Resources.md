@@ -19,3 +19,7 @@
 - [aprs.fi](https://apps.apple.com/au/app/aprs-fi/id922155038) - iOS
 - [APRSdroid](https://aprsdroid.org/) - Android
 
+## Other Software
+
+- [Graywolf, a fully-featured APRS stack with modern web UI](https://github.com/chrissnell/graywolf)
+  
