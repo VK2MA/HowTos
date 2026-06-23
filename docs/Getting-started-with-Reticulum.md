@@ -43,7 +43,7 @@ Enter `429572a04001a8023bf4c2518e34f95b`
 
 Alternately look for recently seen nodes in the **Announces** list.
 
-# Join a Reticulum Relay Chat
+## Join a Reticulum Relay Chat
 
 Go to the **Relay Chat** section
 
