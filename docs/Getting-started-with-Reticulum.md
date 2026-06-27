@@ -33,6 +33,8 @@ In the second column click on **ANNOUNCES**
 
 You should see a list of LXMF destinations you can try. Just click on one that looks interesting and has announced recently then type and send a message.
 
+You can try joining a group chat at LXMF address `401ceb4c5df4c9469df396d821cff138`
+
 ## Browse a Page on the Nomad Network
 
 Go to the **Nomad Network** section
