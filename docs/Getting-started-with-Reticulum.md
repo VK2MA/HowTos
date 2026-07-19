@@ -17,6 +17,12 @@ Click on **+ Add Interface** and configure it as follows:
 
 **Target Port:** `4242`
 
+Expand the section called **Advanced Parameters (IFAC, Mode)** and set the **INTERFACE ACCESS CODE (IFAC)**
+
+**Network Name:** `HADARC`
+ 
+**Passphrase:** _Leave Blank_
+
 Click on **Add interface**
 
 ![Add TCP Interface](assets/Interface_add_TCP.png)
