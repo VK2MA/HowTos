@@ -15,13 +15,15 @@ Click on **+ Add Interface** and configure it as follows:
 
 **Target Host:** `hub.hadarc.org.au`
 
-**Target Port:** `4242`
+**Target Port:** `7373`
 
+<!-- 
 Expand the section called **Advanced Parameters (IFAC, Mode)** and set the **INTERFACE ACCESS CODE (IFAC)**
 
 **Network Name:** `HADARC`
  
 **Passphrase:** _Leave Blank_
+-->
 
 Click on **Add interface**
 
