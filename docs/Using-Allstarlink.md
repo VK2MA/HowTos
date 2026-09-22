@@ -42,7 +42,7 @@ The cloud server is also connected to the Echolink network as VK2RNS-R or Echoli
 
 ### Windows
 
-[AllStar Web Transceiver | Microsoft Store](https://apps.microsoft.com/detail/9nk9jn5kcq1d?hl=en-GB&gl=AU)
+[AllStar Web Transceiver - Microsoft Store](https://apps.microsoft.com/detail/9nk9jn5kcq1d?hl=en-GB&gl=AU)
 
 [QSO One - Free client for AllStarLink, EchoLink, IAX Direct, DMR, System Fusion, and M17](https://qso1.net)
 
