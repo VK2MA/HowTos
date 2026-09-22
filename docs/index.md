@@ -5,3 +5,5 @@ This is a collection of Howtos for members of the Hornsby and Districts Amateur 
 [Getting started with Reticulum](Getting-started-with-Reticulum)
 
 [Getting started with APRS over LoRa](Getting-Started-with-APRS-over-LoRa)
+
+[Using Allstarlink with VK2RNS](Using-Allstarlink)
