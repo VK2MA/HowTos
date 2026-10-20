@@ -9,21 +9,13 @@ Run the program and go to the **Interfaces** section.
 
 Click on **+ Add Interface** and configure it as follows:
 
-**Name:** `HADARC Hub`
+**Name:** `Sydney Reticulum`
 
 **Type:** `TCP Client`
 
-**Target Host:** `hub.hadarc.org.au`
+**Target Host:** `sydney.reticulum.au`
 
-**Target Port:** `7373`
-
-<!-- 
-Expand the section called **Advanced Parameters (IFAC, Mode)** and set the **INTERFACE ACCESS CODE (IFAC)**
-
-**Network Name:** `HADARC`
- 
-**Passphrase:** _Leave Blank_
--->
+**Target Port:** `4242`
 
 Click on **Add interface**
 
