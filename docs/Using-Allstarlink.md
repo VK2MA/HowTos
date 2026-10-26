@@ -20,6 +20,12 @@ The solution to this problem has been to implement an Allstarlink node on a clou
 
 The Allstarlink node at Storey Park has a permanent connection which it establishes outbound the the cloud server. Users on the internet connect to the cloud server and the audio is linked through to Storey Park.
 
+## Allstarlink Account
+
+Before you can participate in Allstarlink you need to have an account. If you don't have an account go to [AllStarLink](https://www.allstarlink.org/) and select **Login/Sign Up** then **Signup**. Follow the instructions to get an account.
+
+This account can then be used to log in with the vatious computer and mobile apps or to get an ID to set up an Allstarlink node.
+
 ## Connecting to VK2RNS
 
 The cloud server has the primary node number for VK2RNS which is 57272. The on-site node at Storey Park is node number 564022. **Generally users just connect to node 57272.**
