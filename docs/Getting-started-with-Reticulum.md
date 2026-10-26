@@ -53,7 +53,7 @@ Click on **Add a hub**
 
 Under **Hub Destination Hash** enter `e7fd7f9efd6608ca4ade879d18646eed` then click **Add Hub**
 
-![HADARC rrc](image-2.png)
+![HADARC rrc](assets/hadarc_rrc.png)
 
 In the **Room Name** field enter `general` and click the **+** then click on **# general** and start chatting.
 
@@ -61,7 +61,7 @@ Follow the links on the Home Page, similar to using a web browser
 
 Click on the gear icon and Select **Auto List Rooms**
 
-![Hub Settings](image-1.png)
+![Hub Settings](assets/rrc_hub.png)
 
 ## Add an RF interface
 This is where Reticulum starts to make sense for Amateurs, using RF to carry the data.
