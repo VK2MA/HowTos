@@ -40,7 +40,7 @@ Outbound connections can be done via a Web interface however acccess to this is 
 
 You can also use DTMF tones.
 
-## AllStartLink Apps
+## AllStarLink Apps
 
 ### macOS
 
