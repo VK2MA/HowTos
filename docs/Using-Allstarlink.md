@@ -30,7 +30,9 @@ This account can then be used to log in with the vatious computer and mobile app
 
 The cloud server has the primary node number for VK2RNS which is 57272. The on-site node at Storey Park is node number 564022. **Generally users just connect to node 57272.**
 
-The cloud server is also connected to the Echolink network as VK2RNS-R or Echolink node number 611366.
+![ASL Connect](assets/RepeaterPhone_Connect.png)
+
+The cloud server is also connected to the Echolink network as **VK2RNS-R** or Echolink node number 611366.
 
 You can connect inbound using another Allstar node or you can use one of a number of Computer or Mobile apps.
 
@@ -39,6 +41,14 @@ You can connect inbound using another Allstar node or you can use one of a numbe
 Outbound connections can be done via a Web interface however acccess to this is not generally available.
 
 You can also use DTMF tones.
+
+*For example to connect to the VK6 AllStar Regional Hub at node number 42482*
+
+***3 42482**
+
+*To disconnect*
+
+***1 42482**
 
 ## AllStarLink Apps
 
@@ -63,8 +73,8 @@ You can also use DTMF tones.
 
 [QSO One - Free client for AllStarLink, EchoLink, IAX Direct, DMR, System Fusion, and M17](https://qso1.net)
 
-## Building your own Allstar Node
+## Building your own AllStar Node
 
-It is possible to build to build your own Allstar node and connect to VK2RNS using that.
+It is possible to build to build your own AllStar node and connect to VK2RNS using that.
 
 The software will run on a Linux based computer. Many nodes are built using a Raspberry Pi and a sound card interface. For more information look at [AllStarLink V3](https://www.allstarlink.org/).
